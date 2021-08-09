@@ -1,6 +1,6 @@
 # hello-world
 First project - greetings
 
-
-so this is not only for codes, but also for any files. 
-Good to know it.
+Ok this is for the link
+A16GBUSB to Z
+Z to IronWolf2T\USB1T\Patrick\2GBFile
